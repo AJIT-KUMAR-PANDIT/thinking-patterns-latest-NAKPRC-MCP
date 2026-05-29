@@ -1,0 +1,39 @@
+{
+  "name": "nakprc-thinking-patterns",
+  "version": "1.0.0",
+  "description": "Generate LLM thinking patterns for any project - architecture, structure, and reasoning frameworks.",
+  "type": "module",
+  "bin": {
+    "nakprc": "./nakprc.js"
+  },
+  "scripts": {
+    "start": "node nakprc.js tp start"
+  },
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "llm",
+    "thinking-patterns",
+    "architecture",
+    "code-analysis",
+    "nakprc"
+  ],
+  "author": "nakprc",
+  "license": "MIT",
+  "homepage": "https://ai.nakprc.com/llm/thinking-patterns",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nakprc/thinking-patterns"
+  },
+  "bugs": {
+    "url": "https://github.com/nakprc/thinking-patterns/issues"
+  },
+  "files": [
+    "nakprc.js",
+    "package.json",
+    "README.md"
+  ]
+}
