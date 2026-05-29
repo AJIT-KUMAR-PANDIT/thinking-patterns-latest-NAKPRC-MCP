@@ -177,7 +177,13 @@ node nakprc.js tp start
 
 ## Deploy
 
-Hosted at: https://ai.nakprc.com/llm/thinking-patterns
+**Web Landing Page:** `index.html` — Open in a browser or deploy to any static host (Cloudflare Pages, Vercel, Netlify, GitHub Pages).
+
+**npm:** `nakprc-thinking-patterns` — Install globally with `npm install -g nakprc-thinking-patterns`.
+
+**Source:** [GitHub](https://github.com/AJIT-KUMAR-PANDIT/thinking-patterns-latest-NAKPRC-MCP)
+
+**Docs:** https://ai.nakprc.com/llm/thinking-patterns
 
 ## License
 
